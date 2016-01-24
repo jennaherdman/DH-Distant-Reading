@@ -26,7 +26,7 @@ Here are a few facts about Dickens which makes his texts so ripe for analysis:
 
 All of these traits make Dickens ripe for text analysis. 
 
-![This is David](URL)
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/9780141343822.jpg?raw=true)
 
 ##Step 1: Preparing the Text
 
@@ -50,8 +50,8 @@ Our first two tools, WordCounter and SameDiff, are produced by some excellent fo
 
 So, let’s copy-paste our “David” into Word Counter, here -link http://beta.databasic.io/en/wordcounter/- 
 
--screenshot of WordCounter with David-
-Caption: keep doing you, Agnes. RIP Dora.
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%202.png?raw=true)
+Keep doing you, Agnes. RIP Dora.
 
 You’ll notice the box “ignore stopwords” and be sure to keep it checked. This will keep those pesky “ands” and “buts” out of your analysis. 
 
@@ -67,8 +67,8 @@ Of course, for this tool we’ll need a second text. How about “Jane Eyre” b
 
 Get to SameDiff -link: http://beta.databasic.io/en/samediff/#upload- and upload your two files for comparison. What you’ll get are three columns of words in varying sizes. 
 
--screenshot 4- 
-Caption: if only Jane had a Peggotty. 
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%204.png?raw=true)
+If only Jane had a Peggotty. 
 
 If you hover over a specific word in the central column, you can see how many times a word was used in each novel. For example, “dear” was used 414 times in “David” and 183 times in “Jane.” In general, though, SameDiff doesn’t tell us much about these particular novels. The word frequencies are dominated by names and places. However, what this tool has done is given us a useful introduction to the possibilities of text analysis. 
 
@@ -98,23 +98,23 @@ When the window opens, you have some different options for tools to analyze your
 
 Reminder: concordances help us look for patterns in the language using a keyword search. Select the “David” text on the left under “Corpus Files,” and put in a search term. I’m going to try the word “love” and see what we come up with. 
 
-—image, screenshot 5 of concordances- 
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%205.png?raw=true)
 
 As you will see, we have 264 hits of the word “love.” Now, if I were writing a paper on the use of the word “love” in this novel I would do some research into the idea of love as a construct or term in Victorian literature. I could study the use of love as a verb vs. love as a noun. I could even, if I chose, use Antconc to analyze all of Dickens’s books and see how the use of the word “love” varies or is similar between the collection of them. Do certain texts use love in different contexts than others? 
 
 Now, with the Concordance tool, we can also change the way we view this data. Look at the heading “Kwic Sort.” This tool lets you expand the specific view of the words which you are viewing to the left or to the right. You can click on a specific word and navigate to “File View” to see the explicit context of the word. 
 
--screenshot 6 - file view- 
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%206.png?raw=true)
 
 Phrases: We can also search for a phrase or a set of key words by typing the phrase into the search bar. Say, for example, “love and truth,” which only appears six times, but each time in reference to Agnes. 
 
 Concordance Plots: If you click the tab next to “Concordances,” it will visualize in a simple fashion the frequencies under which your keyword appears most often. Let’s try this with the word “Uriah.” Uriah Heep, the cadaverous ginger who haunts Mr. Wickfield through his character tick of humble, discreetly patronizing servitude. When running “Uriah” through Concordance Plot, we see a resurgence of his reappearances in the novel. It’s fun to play with this tool by running different characters names through and comparing them. 
 
--screenshot 7/Uriah- 
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%207.png?raw=true)
 
--screenshot 8/Steerforth-
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20image%208%20.png?raw=true)
 
--screenshot 9/Mr. Micawber
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%209.png?raw=true)
 
 Here, we have a simple, yet fascinating visualization of the periods in David’s life when each character reappears and is most important. Another interesting visualization I ran is “Emily” vs. “Little Em’ly” who are the same person by different names. 
 
@@ -128,7 +128,7 @@ Like with the Concordances, you specify the number of words on either side that 
 
 Now, the Collocates tool will rank the words in order of their relevance as a collocate to the keyword. These may have a low frequency, but this is dependent on not only what appears next to the keyword, but also what doesn’t appear next to other words in the text. You can also sort them by frequency. 
 
--screenshot 10, collocate, Uriah- 
+!(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%2010.png?raw=true)
 
 This tutorial has gone into detail on the possible uses and analyses of these tools, as well as explaining them. Of course, there are still many other things Antconc can be used for. However, I hope this can serve as a useful beginner’s tool that will pique the interest and inspire confidence in the reader’s conception of their ability to do text analysis. 
 
