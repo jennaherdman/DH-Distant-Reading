@@ -1,0 +1,155 @@
+
+*What is distant-reading text analysis, and why should I care?*
+
+As a student of both English literature and Digital Humanities, one of my core concerns has been developing a tool-base and the scope of knowledge in order to make these two disciplines complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
+
+In this blog, I will introduce you to some useful tools for beginning text analysis, which will serve to break down the practical, housekeeping purposes. I will also delve into the methods of drawing relevant meaning from these tools, and apply them directly to my own research to demonstrate how the tools can diversify and richen classic literary criticism. This last step, the application of the tools to analysis, is very meaningful and something which I have found some tools lack - if we have the data, what are the possibilities of what we can do with it? Can distant-reading text analysis articulate something that traditional means of scholarship does not? 
+
+Not only is this a cool way of approaching literary studies, but it is also a user-friendly way for non-academics to approach literature in dynamic and accessible ways. This approach, in my opinion, is a potential, inclusive future for literature studies, and text analysis and visualization is a way to get there. 
+
+If you would like to read my blog applying these methods to my MRP research on vampire literature, please click here: -linky- 
+
+For more reading on text analysis and literature: 
+-links-
+
+For more examples of distant-reading: 
+-links-
+
+*Tool Tutorial* 
+
+“David Copperfield” by Charles Dickens is one of my favourite books, and one of Charles Dickens’s masterpieces. For the tool tutorial section of this blog, I am going to suggest that you follow along using the easy, step-by-step instructions I lay out. If you’d like to use a different text, of course, be my guest. 
+
+Here are a few facts about Dickens which makes his texts so ripe for analysis: 
+1. They’re damn long. A former professor of mine put it perfectly: Dickens write “in excess.” 
+2. They’re wordy. 
+3. They’re repetitive - because Dickens wrote in serial instalments, he had to keep reminding his readers of the nearly a THOUSAND characters peppered through his fifteen novels. So if you’re annoyed at how each minor character is pretty flat except for the tick which characterizes them, it’s done partly to help the reader keep track of all the minor characters who reappear throughout the text (re: the Micawbers). 
+
+All of these traits make Dickens ripe for text analysis. 
+
+—cover of DC- 
+
+**Step 1: Preparing the Text**
+
+You can download a (free!) copy of “David” from Project Gutenberg. -link http://www.gutenberg.org/ebooks/766- They also have oodles of other texts for your legal and easy download. What I’ve done is click on the file that says “Plain Text UFT-8”, then selected “all” and copy-pasted the entire book into a blank TextEdit file. This takes about five seconds. Let’s name it “Daivd Copperfield - Text Analysis” and save it in a safe place. 
+
+Now, it’s time to cleanse our document so that all that remains are the actual words we want to analyze - none of this administrative business. Check out this screenshot of my “David” file: 
+
+-screenshot of David- 
+
+So, all of this has to go. Especially if your text comes from gutenberg, be sure to cleanse it of the disclaimers and info at the beginning and end of the book that the site has added. If you’re using “David,” then the first words should be some classic authorial manifesto about being the hero of his own life, and the last words in the document should involve point upward. 
+
+Depending on how vigilant you are, feel free to go through and delete the chapter headings and such, though arguably they are part of the text. I’m not really decided yet how I feel about the chapter headings myself. Must consider. 
+
+Okay. We now have a nice, clean Dickens novel waiting to be analyzed. Beautiful. 
+
+**Step 2: Welcome to WordCounter** 
+
+Firstly, I’d like to give credit to Matthew S Carroll and his blog “DataBasic: A suite of data tools for the beginner” for introducing me to the first two tools I’m going to show you. If you’re interested, check out this post and the website, “Medium.” -link https://medium.com/3-to-read/databasic-a-suite-of-data-tools-for-the-beginner-5165651e46a5#.drg8uolnq- Mr. Carroll approaches these tools with the purposes of the journalist in mind and comes up with some really interesting potential for analysis. 
+
+Our first two tools, WordCounter and SameDiff, are produced by some excellent folks at DataBasic who have designed some easy and accessible tools for beginners, especially in the classroom, to get comfortable with data analysis. The tools offer some basic options for text analysis. Importantly, in my opinion, they also open our eyes to what sorts of things you can look for when we move on to more complicated tools, opening up the potential for finding meaning in these exercises. 
+
+So, let’s copy-paste our “David” into Word Counter, here -link http://beta.databasic.io/en/wordcounter/- 
+
+-screenshot of WordCounter with David-
+Caption: keep doing you, Agnes. RIP Dora.
+
+You’ll notice the box “ignore stopwords” and be sure to keep it checked. This will keep those pesky “ands” and “buts” out of your analysis. 
+
+OK IS NOT WORKING I SAD COME BACK LATER WANT TO USE THE BIGRAMS! AND THE TRIGRAMS! 
+
+“Agnes” used 316 times while “Dora” was used 510 times. The two romantic rivals for David’s heart. This is interesting since Agnes appears so much earlier in the novel and (spoiler) ends up marrying David while Dora dies quite soon after their marriage. __ has written about the connections between the two women. I would be interested to read about how many times the women mention each other in dialogue as opposed to how David does. * fix this up, but onto something maybe
+
+**Step 2.2: Welcome to SameDiff!** 
+
+SameDiff is the second tool from DataBasic that I’m going to introduce to you. It compares two different texts and outlines in a user-friendly way the words that are used in both texts vs. the words that only appear in one text. 
+
+Of course, for this tool we’ll need a second text. How about “Jane Eyre” by Charlotte Bronte, another favourite of mine. Though the two novels contain notable similarities - bilgunsromans, orphans, first-person narration, etc., they are different enough in literary thought and in character and content that we might be able to pull out some neat information. Let us download “Jane” from gutenberg like we did with “David” and clean up the text quickly - be sure to slice out the prefaces as well. They’re interesting, but not relevant for this specific purpose.  -link http://www.gutenberg.org/ebooks/1260-
+
+Get to SameDiff -link: http://beta.databasic.io/en/samediff/#upload- and upload your two files for comparison. What you’ll get are three columns of words in varying sizes. 
+
+-screenshot 4- 
+Caption: if only Jane had a Peggotty. 
+
+If you hover over a specific word in the central column, you can see how many times a word was used in each novel. For example, “dear” was used 414 times in “David” and 183 times in “Jane.” In general, though, SameDiff doesn’t tell us much about these particular novels. The word frequencies are dominated by names and places. However, what this tool has done is given us a useful introduction to the possibilities of text analysis. 
+
+Interestingly, it also offers a quick segway into the idea of a corpus creating a text. Instead of close-reading “David” in chronological order, with each word coming in front of the other, these tools present a new form of text which we analyze separately from the novel in its original form. For those of us interested in the developing nature of texts and archives this is an important point. 
+
+**Step 3: Welcome to Antconc**
+
+Antconc is a separate application which you have to download onto your machine - a deceptively simple phrase. 
+
+I would also like to acknowledge this tutorial by Heather Froehlich, “Corpus Analysis with Antconc” published on “The Programming Historian.” It’s a super useful and detailed tool tutorial which has helped me understand the tool and offers discussions of what can be done using Antconc. My tutorial here is a simplified application of the uses Froehlich discusses, but I would recommend checking hers out as well. - link http://programminghistorian.org/lessons/corpus-analysis-with-antconc 
+
+Download the program here in accordance with your machine’s version: http://www.laurenceanthony.net/software/antconc/ Be sure to give the appropriate permissions for your computer to access it. 
+
+When the window opens, you have some different options for tools to analyze your texts. They are: 
+
+**Concordance:** A keyword in context search function. This will find patterns in the language. This is a good way to start looking for patterns in the language structures. 
+**Concordance Plot:** Simple visualization of the above. 
+**File View:** Full-file view of the results. 
+**Clusters/N-Grams:** Picks out word patterns according to frequency. 
+*Collocates:** Words which are likely to appear in patterns, as opposed to definitely appear in patterns. 
+**Word List:** All the words. 
+**Keyword List:** Comparisons. 
+
+ Firstly, get your texts into Antconc using File - Open. I’ll put in the David text we’ve been working with to start. 
+
+***Let’s play with Concordances.***
+
+Reminder: concordances help us look for patterns in the language using a keyword search. Select the “David” text on the left under “Corpus Files,” and put in a search term. I’m going to try the word “love” and see what we come up with. 
+
+—image, screenshot 5 of concordances- 
+
+As you will see, we have 264 hits of the word “love.” Now, if I were writing a paper on the use of the word “love” in this novel I would do some research into the idea of love as a construct or term in Victorian literature. I could study the use of love as a verb vs. love as a noun. I could even, if I chose, use Antconc to analyze all of Dickens’s books and see how the use of the word “love” varies or is similar between the collection of them. Do certain texts use love in different contexts than others? 
+
+Now, with the Concordance tool, we can also change the way we view this data. Look at the heading “Kwic Sort.” This tool lets you expand the specific view of the words which you are viewing to the left or to the right. You can click on a specific word and navigate to “File View” to see the explicit context of the word. 
+
+-screenshot 6 - file view- 
+
+Phrases: We can also search for a phrase or a set of key words by typing the phrase into the search bar. Say, for example, “love and truth,” which only appears six times, but each time in reference to Agnes. 
+
+Concordance Plots: If you click the tab next to “Concordances,” it will visualize in a simple fashion the frequencies under which your keyword appears most often. Let’s try this with the word “Uriah.” Uriah Heep, the cadaverous ginger who haunts Mr. Wickfield through his character tick of humble, discreetly patronizing servitude. When running “Uriah” through Concordance Plot, we see a resurgence of his reappearances in the novel. It’s fun to play with this tool by running different characters names through and comparing them. 
+
+-screenshot 7/Uriah- 
+
+-screenshot 8/Steerforth-
+
+-screenshot 9/Mr. Micawber
+
+Here, we have a simple, yet fascinating visualization of the periods in David’s life when each character reappears and is most important. Another interesting visualization I ran is “Emily” vs. “Little Em’ly” who are the same person by different names. 
+
+***Let’s play with collocates***
+
+Collocates are lists of words which accompany your keyword. They are statistically more probable to be connected together (such as “maiden” and “voyage”). 
+
+So, click on the Collocates tab. Choose a word to search - I’m going to try with “Uriah” again, just because I detest/pity him. A tutorial for Antconc for Newcastle University suggests removing tags from the text. Do this by clicking Global Settlings -> Tag Settings and check Hide Tags -> Apply. 
+
+Like with the Concordances, you specify the number of words on either side that you would like to be considered using the Window Span. I’ll choose 3L and 3R. 
+
+Now, the Collocates tool will rank the words in order of their relevance as a collocate to the keyword. These may have a low frequency, but this is dependent on not only what appears next to the keyword, but also what doesn’t appear next to other words in the text. You can also sort them by frequency. 
+
+-screenshot 10, collocate, Uriah- 
+
+This tutorial has gone into detail on the possible uses and analyses of these tools, as well as explaining them. Of course, there are still many other things Antconc can be used for. However, I hope this can serve as a useful beginner’s tool that will pique the interest and inspire confidence in the reader’s conception of their ability to do text analysis. 
+
+
+*Conclusions*
+
+In this tutorial, we have explored: 
+
+-how to prepare a text for analysis 
+-how to use WordCounter and SameDiff
+-how to use some basic functions of Antconc 
+-the potentials for text analysis using these tools 
+
+Problems/issues: relies on extenuating knowledge and perhaps makes RESEARCH QUESTIONS IF NOT ANSWERS. 
+
+Future: 
+possible uses of this analysis 
+- compare Dickens to other authors of his day. How do his diction and word patterns differ from Austen? Or the Bronte sisters?
+- Does Dickens’s style change over the course of his long writing career? 
+
+
+
+
+
