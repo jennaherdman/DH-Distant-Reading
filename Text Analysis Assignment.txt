@@ -1,7 +1,7 @@
 
 #What is text analysis?
 
-As a student of both English literature and Digital Humanities, one of my core concerns has been developing a tool-base and the scope of knowledge in order to make these two disciplines complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
+As a student of both English literature and Digital Humanities, one of my core goals has been to develop knowledge of different tools which help these two academic concentrations complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
 
 In this blog, I will introduce you to some useful tools for beginning text analysis, which will serve to break down the practical, housekeeping purposes. I will also delve into the methods of drawing relevant meaning from these tools, and apply them directly to my own research to demonstrate how the tools can diversify and richen classic literary criticism. This last step, the application of the tools to analysis, is very meaningful and something which I have found some tools lack - if we have the data, what are the possibilities of what we can do with it? Can distant-reading text analysis articulate something that traditional means of scholarship does not? 
 
@@ -114,7 +114,7 @@ Once you’ve mastered the basic functions of Voyant, you can expand on your vis
 
 As you will notice, the tool will have chosen a few terms to focus on for your Knots visualization. You can tailor the words you want (perhaps drawing on the Cirrus word cloud from the original Voyant page). Click on the existing coloured terms at the top to delete them from the visualization or press “Clear Terms” in the tool bar. Add a term by searching it in the dropdown menu. A set of options will come up - click on the proper one, and then press “enter” on your keyboard. These instructions seem very specific, but this is because the program can be fickle. 
 
-![screenshot 16](link)
+![screenshot 16](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%2016.png?raw=true)
 
 As you can see, I’ve chosen a selection of minor characters to compare. The Knots demonstrate the interactions of these characters throughout the novel, clustering them together. Some observations can be drawn from these squiggles: 
 
@@ -129,7 +129,7 @@ Bubble lines is similar to Knots in term of usability. However, it arranges the 
 
 As with Knots, de-select and select the relevant terms. I’ve chosen three of the young male figures who come in and out of David’s life. I would recommend checking the box “Separate Lines for Terms,” which will place each word on its own line and make it a bit easier to distinguish between them. 
 
-![screenshot 17](linky)
+![screenshot 17](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%2017.png?raw=true)
 
 So here, we have yet another visualization which tells us something about the plot of the novel. There are infinite possibilities for possible terms to compare here - another possibility might be the use of a certain set of words or locations. 
 
