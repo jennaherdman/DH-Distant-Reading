@@ -1,5 +1,5 @@
 
-#What is distant-reading text analysis, and why should I care?
+#What is text analysis?
 
 As a student of both English literature and Digital Humanities, one of my core concerns has been developing a tool-base and the scope of knowledge in order to make these two disciplines complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
 
@@ -9,15 +9,15 @@ Not only is this a cool way of approaching literary studies, but it is also a us
 
 If you would like to read my blog applying these methods to my MRP research on vampire literature, please click here: -linky- 
 
-For more reading on text analysis and literature: 
--links-
-
-For more examples of distant-reading: 
--links-
+Further reading:
+[The instability of gender](http://tedunderwood.com/2016/01/09/the-instability-of-gender/)
+[A dataset for distant-reading literature in English, 1700-1922](http://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/)
+[A quantitative literary history of 2,958 Nineteenth-Century British Novels](http://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
+[How not to read a million books](http://people.brandeis.edu/~unsworth/hownot2read.html)
 
 #Tool Tutorial
 
-**David Copperfield** by Charles Dickens is one of my favourite books, and one of Charles Dickens’s masterpieces. For the tool tutorial section of this blog, I am going to suggest that you follow along using the easy, step-by-step instructions I lay out. If you’d like to use a different text, of course, be my guest. 
+*David Copperfield* by Charles Dickens is one of my favourite books, and one of Charles Dickens’s masterpieces. For the tool tutorial section of this blog, I am going to suggest that you follow along using the easy, step-by-step instructions I lay out. If you’d like to use a different text, of course, be my guest. 
 
 Here are a few facts about Dickens which makes his texts so ripe for analysis: 
 1. They’re damn long. A former professor of mine put it perfectly: Dickens write “in excess.” 
@@ -94,7 +94,7 @@ When the window opens, you have some different options for tools to analyze your
 
  Firstly, get your texts into Antconc using File - Open. I’ll put in the David text we’ve been working with to start. 
 
-###Let’s play with Concordances!
+###Antconc Lesson 1: Concordances
 
 Reminder: concordances help us look for patterns in the language using a keyword search. Select the “David” text on the left under “Corpus Files,” and put in a search term. I’m going to try the word “love” and see what we come up with. 
 
@@ -118,7 +118,7 @@ Concordance Plots: If you click the tab next to “Concordances,” it will visu
 
 Here, we have a simple, yet fascinating visualization of the periods in David’s life when each character reappears and is most important. Another interesting visualization I ran is “Emily” vs. “Little Em’ly” who are the same person by different names. 
 
-###Let’s play with Collocates
+###Antconc Lesson 2: Collocates
 
 Collocates are lists of words which accompany your keyword. They are statistically more probable to be connected together (such as “maiden” and “voyage”). 
 
@@ -133,7 +133,7 @@ Now, the Collocates tool will rank the words in order of their relevance as a co
 This tutorial has gone into detail on the possible uses and analyses of these tools, as well as explaining them. Of course, there are still many other things Antconc can be used for. However, I hope this can serve as a useful beginner’s tool that will pique the interest and inspire confidence in the reader’s conception of their ability to do text analysis. 
 
 
-#Conclusions#
+#Conclusions
 
 In this tutorial, we have explored: 
 
@@ -142,12 +142,14 @@ In this tutorial, we have explored:
 * how to use some basic functions of Antconc 
 * the potentials for text analysis using these tools 
 
+This blog has outlined some of the basics of text analysis. Now, even with more advanced tools, tools like Antconc are not in themselves  
+
 Problems/issues: relies on extenuating knowledge and perhaps makes RESEARCH QUESTIONS IF NOT ANSWERS. 
 
 Future: 
 possible uses of this analysis 
-- compare Dickens to other authors of his day. How do his diction and word patterns differ from Austen? Or the Bronte sisters?
-- Does Dickens’s style change over the course of his long writing career? 
+* compare Dickens to other authors of his day. How do his diction and word patterns differ from Austen? Or the Bronte sisters?
+* Does Dickens’s style change over the course of his long writing career? 
 
 
 
