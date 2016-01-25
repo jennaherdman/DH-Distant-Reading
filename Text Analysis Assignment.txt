@@ -96,6 +96,8 @@ Upload your David document into Voyant by choosing *Upload* then *Add* and selec
 
 Now, you’ll notice that the word cloud under the word “Cirrus” is not particularly helpful. This is because we need to edit out the stop words. Stop words are words like “and”, “the”, “to” and so forth. To generate the analysis and exclude the stop words, click on the little box to the top left of the word cloud, labeled “options: Cirrus.” A box will pop up. Under “Stop Words List” select “English (Taporware) and check the box that says “Apply Stop Words Globally.” Then press OK. 
 
+![screenshot 14](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%2014.png?raw=true)
+
 The new word cloud is far more interesting for purposes of basic analysis. “Mr”, “little”, “aunt”, and “peggotty” are some of the most commonly used words. You will also notice “eyes”, “face”, “head” and “mind” are frequently used. This tool can help raise questions about the frequency of these words and what significance they have without having to look at the individual context of each word - though this is possible with Voyant under the Corpus Reader heading. 
 
 If you click on a specific word in the Cirrus area, another window will open called Word Trends. These allow you to see the relative frequencies across the text or the corpus. Choosing a specific point on the graph lets you see the keyword in context. 
