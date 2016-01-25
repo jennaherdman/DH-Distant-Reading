@@ -10,19 +10,19 @@ Not only is this a cool way of approaching literary studies, but it is also a us
 If you would like to read my blog applying these methods to my MRP research on vampire literature, please click here: -linky- 
 
 Further reading:
-[The instability of gender](http://tedunderwood.com/2016/01/09/the-instability-of-gender/)
-[A dataset for distant-reading literature in English, 1700-1922](http://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/)
-[A quantitative literary history of 2,958 Nineteenth-Century British Novels](http://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
-[How not to read a million books](http://people.brandeis.edu/~unsworth/hownot2read.html)
+* [The instability of gender](http://tedunderwood.com/2016/01/09/the-instability-of-gender/)
+* [A dataset for distant-reading literature in English, 1700-1922](http://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/)
+* [A quantitative literary history of 2,958 Nineteenth-Century British Novels](http://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
+* [How not to read a million books](http://people.brandeis.edu/~unsworth/hownot2read.html)
 
 #Tool Tutorial
 
 *David Copperfield* by Charles Dickens is one of my favourite books, and one of Charles Dickens’s masterpieces. For the tool tutorial section of this blog, I am going to suggest that you follow along using the easy, step-by-step instructions I lay out. If you’d like to use a different text, of course, be my guest. 
 
 Here are a few facts about Dickens which makes his texts so ripe for analysis: 
-1. They’re damn long. A former professor of mine put it perfectly: Dickens write “in excess.” 
-2. They’re wordy. 
-3. They’re repetitive - because Dickens wrote in serial instalments, he had to keep reminding his readers of the nearly a THOUSAND characters peppered through his fifteen novels. So if you’re annoyed at how each minor character is pretty flat except for the tick which characterizes them, it’s done partly to help the reader keep track of all the minor characters who reappear throughout the text (re: the Micawbers). 
+* 1. They’re damn long. A former professor of mine put it perfectly: Dickens write “in excess.” 
+* 2. They’re wordy. 
+* 3. They’re repetitive - because Dickens wrote in serial instalments, he had to keep reminding his readers of the nearly a THOUSAND characters peppered through his fifteen novels. So if you’re annoyed at how each minor character is pretty flat except for the tick which characterizes them, it’s done partly to help the reader keep track of all the minor characters who reappear throughout the text (re: the Micawbers). 
 
 All of these traits make Dickens ripe for text analysis. 
 
