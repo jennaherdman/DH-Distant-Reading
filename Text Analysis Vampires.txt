@@ -1,0 +1,102 @@
+#Distant-Reading: Vampires in Nineteenth Century Texts 
+
+##Introduction
+
+This blog focuses on a distant-reading approach to some of the texts I am currently researching for my MA dissertation project. My goal is that it will be a useful resource for my research. However, distant-reading is still a new method for literature students, and shiny new tools and a focus on close reading in university mean that many students are not exposed to the potential of distant-reading for their understandings of texts. My second goal in circulating this blog is that students of literature or other disciplines can use it as a fun example for the ways in which we can use distant-reading tools to approach texts in innovative and creative ways. 
+
+To view my blog and tool tutorial for beginners planning to use these tools, [please click here](http://jennaherdman.github.io/DH-Distant-Reading/). 
+
+![vamps pic 1](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20pic%201.jpg?raw=true)
+
+###Abstract
+
+My project is an analysis of the female vampire body as a site of cultural conflict upon which anxieties about gender and sexuality are negotiated. In the late twentieth century, the literary vampire shifted from monstrous other to become a figure idealized in mass popular culture as a site of identification. My research traces the development of the vampire’s cultural function, focusing on how the social anxiety over female bodies expressed in canonical vampire literature has re-emerged in contemporary vampire narratives. This project joins a body of scholarship on the development of vampires as cultural figures in literature and popular culture (Auerbach; Gelder; Gordon and Hollinger; Twitchell) and is unique in its chronological, comparative analysis of the gender and sexuality of the female vampire. Part I grounds the project in comparative analysis of two seminal vampire texts of the nineteenth century: *Carmilla* by Joseph Sheridan Le Fanu and *Dracula* by Bram Stoker. In *Carmilla*, women form kinship and sexual bonds beyond the patriarchal masculine family networks. However, Dracula sees female vampires being punished as demonized outsiders and ultimately as marginalized victims who are punished for their sexual deviance. Both texts are informed greatly by the vampire literature emerging in the nineteenth century.  
+
+###Scope of blog 
+
+This specific project intends to outline some of the ways in which text analysis can illuminate information about the texts. What similarities can be identified between vampire novels of the nineteenth century? Can we identify any obvious patterns? What questions does this raise for analysis? 
+
+###Texts 
+
+*The Vampyre* by John Polidori (1819)
+*Carmilla* by Joseph Sheridan LeFanu (1871)
+*Varney the Vampire* by James Malcolm Rymer & Thomas Peckett Prest
+*Dracula* by Bram Stoker (1897)
+ 
+##Tools 
+
+I will be running these texts as a corpus through two useful tools for text analysis: Voyant and Antconc. For detailed descriptions of how to use these tools, please see my tutorial as linked above. While the tutorial is written for beginners and mainly focuses on single-text analysis, this blog analyzes all four novels as a corpus and attempts to draw comparisons between the specific texts. 
+
+![vamps pic 2](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20pic%202.jpg?raw=true)
+
+##Voyant
+
+###Cirrus: 
+
+![image 1](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%201.png?raw=true)
+
+This image identifies the most commonly used words in the corpus, including “know”, “time” “good” and “house” among the most interesting revelations. In general, however, this display doesn’t tell us much about the corpus. Unlike a word cloud of a single text, the cirrus is influenced by factors such as the length of each individual text within the corpus. 
+
+###Bubblelines:
+
+![image 2](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%202.png?raw=true)
+
+The Bubblelines tool allows me to target specific words and trace their development across the novels. I chose the words “blood”, “friend,” “dear” and “vampire” to focus on in this visualization. 
+
+* “Blood” is, curiously, hardly mentioned in *Carmilla.* Though it appears a bit in *The Vampyre*, this is scarce in comparison to the later texts. 
+* The word “friend” is also most present in the two later texts. This is interesting when considering the shift in vampire literature from the vampire as a potential friend for the male protagonist to the vampire as a supernatural other, whose danger binds groups of men together. 
+* The word “dear” is extremely popular, especially in *Varney* and *Dracula.* In *Dracula*, “dear” is most frequent in the central section, no doubt when Lucy is suffering from Dracula’s bite. In *Carmilla*, the word appears most frequently around the middle of the text. 
+* The word *vampire* appears for the most part near the middle and ending of the texts. 
+* For the first vampire novel, Polidori’s *The Vampyre* lacks the patterns of the earlier texts. 
+
+###Knots:
+
+![image 3](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%203.png?raw=true)
+
+For the Knots visualization, I picked out several words to see if they were mentioned at similar times, and what the flow of those words are throughout the text.  
+
+* woman and wife began separately, but by the end of the corpus are aligned. This makes sense especially considering that *Dracula* is especially concerned with marriage. 
+* love and marriage, surprisingly, barely intersect. 
+* dear and beautiful are very entertwined
+* friend and blood are very separate from any other lines. Perhaps this is because the other words chosen are related to the heterosexual world of the domestic, while blood is something that exists beyond that sphere when it comes to homosocial relationships between men. 
+
+##Antconc 
+
+###Blood: 
+
+![image 4](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%204.png?raw=true)
+
+Here we have a concordance plot for the word “blood” throughout the corpus, divided by text.
+
+* *The Vampyre* and *Carmilla* hardly mention blood at all. When *Carmilla* does mention blood, it is near the novel’s conclusion. 
+* *Varney the Vampire* has a concentration of blood at the beginning of the text, and it diminishes but continues fairly steadily from then onwards. 
+* *Dracula* mentions blood at the same frequency as *Varney* despite being longer. 
+
+![image 5](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%205.png?raw=true)
+
+Collocates of the word *blood*. They are ranked by likeliness to appear together, not by specific frequency. As we might have expected, the collocates of *blood* are typically violent and material - *sucker* and *bottled* are especially popular. 
+
+When these two techniques of analyzing the word “blood” are put together, it pains a unique picture of the texts’ relationships to the word. 
+
+###Wife: 
+
+![image 6)(https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%206.png?raw=true)
+
+Collocates of the word wife, though I have scrolled down a bit from the top to view slightly lower ranked collocates. The general consensus of collocates are words that have to do with innocence and chastity - feeding into the angel of the house motif. Interestingly, these words de-sexualize the figure of the wife through terms like *elderly* and *trusting.*
+
+###Fiend: 
+![image 7](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%207.png?raw=true)
+
+Concordance plot of the word “fiend.” The word struck me as a popular nineteenth century tool for a monster, and I was curious to see how it might appear in the texts. 
+
+* There are few hits in the two earliest texts. Indeed, *Carmilla* has only five hits. Perhaps because the vampire in *Carmilla* is a beautiful woman whom the main character has affection for, she is portrayed more as companion than as monster, unlike the namesake of *Dracula.*
+
+![image 8](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20text%20analysis%208.png?raw=true)
+
+Collocates of the word “fiend.” As expected, these words are mostly monstrous and suggest the horrific consumption of the monsters of the texts. However, words like “hospitality” and “blessed” seem like oxymorons in this context, and suggest the characters’ fraught emotional connections to the vampires that plague them. Jonathan Harker is initially a guest at Dracula’s castle, after all. Scholars of vampire texts argue that the vampire is a contradictory figure in his dual, internalized role as friend and fiend, and perhaps the collocates suggest this distinction. 
+
+##Conclusions 
+
+This blog has given a brief overview of the kinds of analysis which are possible for distant-reading a limited corpus. My goal is to return to this blog and expand upon the directions for analysis using the data discussed, and to expand the research to twentieth-century vampire texts as well as vampire poetry of the last two centuries. Though much of this analysis is by nature speculative, I think that in future years of study literature scholars will have more sources to draw on when arguing for distant-reading and how it can improve the process of literary analysis, especially when looking at a large selection of texts that draw and inspire one another. 
+
+![vamp image](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/vamps%20pic%203.jpg?raw=true)
