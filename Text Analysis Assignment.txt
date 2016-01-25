@@ -92,7 +92,7 @@ Voyant is a useful tool for visualizing and sorting through words. It’s base f
 
 Upload your David document into Voyant by choosing *Upload* then *Add* and select the relevant document. If you have multiple documents in your corpus, just keep selecting *Add* until they are all there. Then, select *Reveal.*
 
-![screenshot 12](  )
+![screenshot 12](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%2012.png?raw=true)
 
 Now, you’ll notice that the word cloud under the word “Cirrus” is not particularly helpful. This is because we need to edit out the stop words. Stop words are words like “and”, “the”, “to” and so forth. To generate the analysis and exclude the stop words, click on the little box to the top left of the word cloud, labeled “options: Cirrus.” A box will pop up. Under “Stop Words List” select “English (Taporware) and check the box that says “Apply Stop Words Globally.” Then press OK. 
 
@@ -100,7 +100,7 @@ The new word cloud is far more interesting for purposes of basic analysis. “Mr
 
 If you click on a specific word in the Cirrus area, another window will open called Word Trends. These allow you to see the relative frequencies across the text or the corpus. Choosing a specific point on the graph lets you see the keyword in context. 
 
-![screenshot 13](   )
+![screenshot 13](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%2013.png?raw=true)
 
 In this example, I’ve chosen the word “Traddles.” One of the neat things about the novel is how characters re-appear variously throughout the bildungsroman. Traddles is a particularly interesting character for where he comes back. Putting a bunch of these graphs together, we could map the influences and core figures throughout David’s life. This tool thus maps plot as well as language. 
 
