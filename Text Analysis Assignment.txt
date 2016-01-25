@@ -51,17 +51,19 @@ Our first two tools, WordCounter and SameDiff, are produced by some excellent fo
 So, let’s copy-paste our “David” into [Word Counter](http://beta.databasic.io/en/wordcounter/-).
 
 ![screenshot 2](https://github.com/jennaherdman/DH-Distant-Reading/blob/master/screenshots/text%20analysis%20screenshot%202.png?raw=true)
-**Keep doing you, Agnes. RIP Dora.**
+*Keep doing you, Agnes. RIP Dora.*
 
 You’ll notice the box “ignore stopwords” and be sure to keep it checked. This will keep those pesky “ands” and “buts” out of your analysis. 
 
-WordCounter can show us some interesting things. For example, in the novel, “Agnes” used 316 times while “Dora” was used 510 times. The two romantic rivals for David’s heart. This is interesting since Agnes appears so much earlier in the novel and (spoiler) ends up marrying David while Dora dies quite soon after their marriage. __ has written about the connections between the two women. I would be interested to read about how many times the women mention each other in dialogue as opposed to how David does. * fix this up, but onto something maybe
+WordCounter can show us some interesting things. For example, in the novel, “Agnes” used 316 times while “Dora” was used 510 times. The two romantic rivals for David’s heart. This is interesting since Agnes appears so much earlier in the novel and (spoiler) ends up marrying David while Dora dies quite soon after their marriage. Sharon Marcus has written about the connections between the two women and the negotiations of their relationship through David. I would be interested to read about how many times the women mention each other in dialogue as opposed to how David does. 
 
-##Step 2.2: Welcome to SameDiff!
+**Note:** WordCounter is very similar to another tool I will introduce to you, Voyant. Also, on my machine especially, WordCounter has been unreliable, perhaps because the program has recently been released to the public and is (as it should be!) receiving a lot of traffic. I will do a brief explanation to Voyant in Step 4. 
+
+##Step 3: Welcome to SameDiff!
 
 SameDiff is the second tool from DataBasic that I’m going to introduce to you. It compares two different texts and outlines in a user-friendly way the words that are used in both texts vs. the words that only appear in one text. 
 
-Of course, for this tool we’ll need a second text. How about “Jane Eyre” by Charlotte Bronte, another favourite of mine. Though the two novels contain notable similarities - bilgunsromans, orphans, first-person narration, etc., they are different enough in literary thought and in character and content that we might be able to pull out some neat information. Let us download [*Jane Eyre*](http://www.gutenberg.org/ebooks/1260-) from gutenberg like we did with “David” and clean up the text quickly - be sure to slice out the prefaces as well. They’re interesting, but not relevant for this specific purpose. 
+Of course, for this tool we’ll need a second text. How about *Jane Eyre* by Charlotte Bronte, another favourite of mine. Though the two novels contain notable similarities - bilgunsromans, orphans, first-person narration, etc., they are different enough in literary thought and in character and content that we might be able to pull out some neat information. Let us download [*Jane Eyre*](http://www.gutenberg.org/ebooks/1260-) from gutenberg like we did with “David” and clean up the text quickly - be sure to slice out the prefaces as well. They’re interesting, but not relevant for this specific purpose. 
 
 Get to [SameDiff](http://beta.databasic.io/en/samediff/#upload-) and upload your two files for comparison. What you’ll get are three columns of words in varying sizes. 
 
@@ -72,7 +74,52 @@ If you hover over a specific word in the central column, you can see how many ti
 
 Interestingly, it also offers a quick segway into the idea of a corpus creating a text. Instead of close-reading “David” in chronological order, with each word coming in front of the other, these tools present a new form of text which we analyze separately from the novel in its original form. For those of us interested in the developing nature of texts and archives this is an important point. 
 
-##Step 3: Welcome to Antconc
+###WordCounter and SameDiff 
+
+####Advantages
+* great for beginners 
+* visually appealing 
+* exciting new tools 
+
+####Disadvantages 
+* very basic and simple 
+* unreliable functionality 
+* can only really look at one or two texts at once
+
+##Step 4: Welcome to Voyant
+
+Voyant is a useful tool for visualizing and sorting through words. It’s base functions are similar to WordCounter, though less visually appealing, but it has many more options for text manipulation. First of all, let’s go to the [Voyant website](http://voyant-tools.org). 
+
+Upload your David document into Voyant by choosing *Upload* then *Add* and select the relevant document. If you have multiple documents in your corpus, just keep selecting *Add* until they are all there. Then, select *Reveal.*
+
+![screenshot 12](  )
+
+Now, you’ll notice that the word cloud under the word “Cirrus” is not particularly helpful. This is because we need to edit out the stop words. Stop words are words like “and”, “the”, “to” and so forth. To generate the analysis and exclude the stop words, click on the little box to the top left of the word cloud, labeled “options: Cirrus.” A box will pop up. Under “Stop Words List” select “English (Taporware) and check the box that says “Apply Stop Words Globally.” Then press OK. 
+
+The new word cloud is far more interesting for purposes of basic analysis. “Mr”, “little”, “aunt”, and “peggotty” are some of the most commonly used words. You will also notice “eyes”, “face”, “head” and “mind” are frequently used. This tool can help raise questions about the frequency of these words and what significance they have without having to look at the individual context of each word - though this is possible with Voyant under the Corpus Reader heading. 
+
+If you click on a specific word in the Cirrus area, another window will open called Word Trends. These allow you to see the relative frequencies across the text or the corpus. Choosing a specific point on the graph lets you see the keyword in context. 
+
+![screenshot 13](   )
+
+In this example, I’ve chosen the word “Traddles.” One of the neat things about the novel is how characters re-appear variously throughout the bildungsroman. Traddles is a particularly interesting character for where he comes back. Putting a bunch of these graphs together, we could map the influences and core figures throughout David’s life. This tool thus maps plot as well as language. 
+
+For more information about Voyant and the options for analysis, [select here](http://docs.voyant-tools.org/start/). 
+
+###Voyant
+
+####Advantages
+* relatively simple to use, at least with the basic tools
+* allows visualizations
+* does not need to be downloaded or hosted
+* can analyze multiple texts in a corpus
+
+####Disadvantages 
+* will sometimes freeze your computer 
+* interface is a bit confusing at first
+
+
+##Step 5: Welcome to Antconc
 
 Antconc is a separate application which you have to download onto your machine - a deceptively simple phrase. 
 
@@ -130,6 +177,17 @@ Now, the Collocates tool will rank the words in order of their relevance as a co
 
 This tutorial has gone into detail on the possible uses and analyses of these tools, as well as explaining them. Of course, there are still many other things Antconc can be used for. However, I hope this can serve as a useful beginner’s tool that will pique the interest and inspire confidence in the reader’s conception of their ability to do text analysis. 
 
+###Antconc
+
+####Advantages
+* offers tools for looking at patterns of words
+* concordances and collocates are especially useful
+
+####Disadvantages 
+* not the best interface
+* takes a while to learn
+* visualizations are very basic
+
 
 #Conclusions
 
@@ -137,18 +195,20 @@ In this tutorial, we have explored:
 
 * how to prepare a text for analysis 
 * how to use WordCounter and SameDiff
+* how to use some basic functions of Voyant
 * how to use some basic functions of Antconc 
 * the potentials for text analysis using these tools 
 
-This blog has outlined some of the basics of text analysis. Now, even with more advanced tools, tools like Antconc are not in themselves  
+This blog has outlined some of the basics of text analysis. Now, even with more advanced tools, tools like Antconc are not in themselves enough. We still need to use our knowledge of the corpus and assumptions and hypotheses about the texts and the use of language within them in order to draw true analysis from this information. The tools themselves only let us get to that point in a newer and simpler way.  
 
-Problems/issues: relies on extenuating knowledge and perhaps makes RESEARCH QUESTIONS IF NOT ANSWERS. 
+In terms of disadvantages, the tools are not always easy to learn or to find value in. As I explained, the analysis depends on extenuating knowledge and perhaps just creates research questions, not answers. However, it is undeniable that distant-reading is a new way of approaching literature, which in itself is worth studying and improving on. 
 
-Future: 
-possible uses of this analysis 
-* compare Dickens to other authors of his day. How do his diction and word patterns differ from Austen? Or the Bronte sisters?
+##Examples for future analysis
+* Compare Dickens to other authors of his day. How do his diction and word patterns differ from Austen? Or the Bronte sisters?
 * Does Dickens’s style change over the course of his long writing career? 
 * How has literature’s portrayal of a certain construct or theme evolved in terms of the language and structure over time? For example, have the collocates associated with red-haired characters improved since the days of Uriah Heep?
+
+**Reminder:** To see these tools applied to my own research into vampire texts of the nineteenth century, [please follow this link](LINK). Thank you! 
 
 
 
